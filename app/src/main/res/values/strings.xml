@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CommonLibraryProject</string>
+    <string name="image_btn">Image example</string>
+    <string name="getApi">Get Api</string>
+    <string name="postApi">Post Api</string>
+    <string name="deleteApi">Delete Api</string>
+    <string name="patchApi">Patch Api</string>
+    <string name="putApi">Put Api</string>
+</resources>
